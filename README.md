@@ -21,13 +21,11 @@ To demonstrate my understanding of:
 ## 📁 Project Structure
 
 src/
-│
-├── assets/ # Project images (Week1.png, Week2.png, etc.)
-├── components/ # Reusable UI components (Navbar, Footer)
-├── pages/ # Home, Projects, Contact pages
-├── App.js # Main component with routing
-└── App.css # Global styles
-
+- assets/ # Project images (Week1.png, Week2.png, etc.)
+- components/ # Reusable UI components (Navbar, Footer)
+- pages/ # Home, Projects, Contact pages
+- App.js # Main component with routing
+- App.css # Global styles
 
 ---
 
