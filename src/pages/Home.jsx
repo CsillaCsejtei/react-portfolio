@@ -3,7 +3,7 @@ import me from "../assets/me.jpg";
 
 export default function Home() {
   return (
-    <div className="container text-center mt-5">
+    <div className="container text-center mt-4">
       <img
         src={me}
         alt="Csilla Csejtei"
@@ -16,7 +16,7 @@ export default function Home() {
         }}
       />
       <h1>Welcome to My Portfolio</h1>
-      <p className="lead mt-4" style={{ textAlign: "justify" }}>
+      <p className="lead mt-3" style={{ textAlign: "justify" }}>
         With a decorated background in professional sports—including five
         Hungarian Boxing Championship titles, two European Boxing Championship
         bronze medals, and a European Kickboxing Championship bronze—I bring

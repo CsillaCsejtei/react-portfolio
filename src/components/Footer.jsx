@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="bg-dark text-white text-center py-3 mt-auto">
+    <footer className="bg-primary text-white text-center py-3 mt-auto">
       <p className="mb-0">
         This portfolio was coded by Csilla Csejtei and it is{" "}
         <a

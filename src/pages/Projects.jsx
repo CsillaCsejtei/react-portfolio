@@ -10,7 +10,7 @@ import Week8 from "../assets/Week8.png";
 export default function Projects() {
   return (
     <div className="container">
-      <h2 className="text-center mb-4">My Projects</h2>
+      <h2 className="text-center mb-4 mt-4">My Projects</h2>
       <div className="row">
         <div className="col-md-3 col-sm-6 mb-4">
           <img
