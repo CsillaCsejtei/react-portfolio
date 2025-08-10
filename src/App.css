@@ -5,3 +5,11 @@ body{
 .App {
   text-align: center;
 }
+
+.project-image {
+  transition: transform 0.3s ease;
+}
+
+.project-image:hover {
+  transform: scale(1.5);
+}
