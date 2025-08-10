@@ -89,4 +89,4 @@ Clickable images take users to the deployed versions of those projects on Render
  
 🔗 View my portfolio on Render: https://react-portfolio-nqdh.onrender.com
 
-🔗 View my code on GitHub: https://github.com/CsillaCsejtei/portfolio-project
+🔗 View my code on GitHub: https://github.com/CsillaCsejtei/react-portfolio
