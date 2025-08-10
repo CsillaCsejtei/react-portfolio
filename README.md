@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📌 Overview
 
-## Available Scripts
+This is my final portfolio project for the Full Stack Bootcamp, built using **React**. It showcases my skills, experience, and 8 projects completed during the bootcamp challenges. The portfolio is fully responsive, includes navigation between pages, and is deployed using **Render**.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🎯 Objective
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To demonstrate my understanding of:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React fundamentals and component-based architecture
+- Responsive design principles using Bootstrap
+- Project structuring and routing in React
+- Hosting and deploying a React app to the web (Render)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📁 Project Structure
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+src/
+│
+├── assets/ # Project images (Week1.png, Week2.png, etc.)
+├── components/ # Reusable UI components (Navbar, Footer)
+├── pages/ # Home, Projects, Contact pages
+├── App.js # Main component with routing
+└── App.css # Global styles
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🧩 Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- ✅ Built with **React**
+- ✅ Clean navigation using **React Router**
+- ✅ **Responsive layout** using **Bootstrap**
+- ✅ **Interactive gallery** displaying 8 bootcamp projects
+- ✅ Project images are clickable and link to live deployed apps
+- ✅ Professional **Contact page** with social media and email links
+- ✅ Styled with custom CSS and Bootstrap classes
+- ✅ Deployed live using **Render**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 💻 Technologies Used
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- React
+- JavaScript (ES6+)
+- Bootstrap
+- CSS3
+- React Router DOM
+- Render (for deployment)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📚 What I Learned
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- How to structure a React app using reusable components
+- How to route between pages using `react-router-dom`
+- Managing images and assets inside React
+- Building a responsive UI using Bootstrap grid system
+- Basic CSS animations and transitions
+- Deploying a React app on Render
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📂 Previous Projects
 
-### Analyzing the Bundle Size
+Each project in the gallery represents one of the 8 weekly challenges from the bootcamp. 
+Clickable images take users to the deployed versions of those projects on Render.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## ✅ Challenge Requirements Checklist
 
-### Advanced Configuration
+- [x] Built with React and multiple components
+- [x] Includes homepage and at least one other page
+- [x] Contains an interactive project gallery
+- [x] Fully responsive design
+- [x] Displays 8 previous weekly projects
+- [x] Deployed on Render with live link
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 🚀 Links:
+ 
+🔗 View my portfolio on Render: https://react-portfolio-nqdh.onrender.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🔗 View my code on GitHub: https://github.com/CsillaCsejtei/portfolio-project
